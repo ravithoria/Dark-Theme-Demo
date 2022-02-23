@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_500">#1976d2</color> <!--Color primary (light)-->
+    <color name="purple_700">#004ba0</color> <!--Color primary variant (light)-->
+
+    <color name="purple_200">#90caf9</color> <!--Color primary (dark)-->
+
+    <color name="teal_200">#42a5f5</color> <!--Color secondary-->
+    <color name="teal_700">#1565c0</color> <!--Color secondary variant -->
+
+    <color name="red_200">#cf6679</color> <!--Color error (dark)-->
+    <color name="red_600">#b00020</color> <!--Color error (light)-->
+
+    <color name="green_200">#a5d6a7</color> <!--Color error (dark)-->
+    <color name="green_600">#43a047</color> <!--Color error (light)-->
+
+    <!--Color on secondary (light), color on background (light),-->
+    <!--color on surface (light)-->
+    <color name="black">#000000</color>
+
+    <color name="black_800">#121212</color> <!--Color surface (dark)-->
+
+    <!--Color surface (light), color on error (light), -->
+    <!--color on surface (dark), color on surface (dark)-->
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="colorGrey">#ebe9f8</color>
+    <color name="gray_50">#FAFAFA</color>
+    <color name="gray_300">#E0E0E0</color>
+    <color name="darkGrey">#121212</color>
+    <color name="transparent">#00000000</color>
+
+
+    <color name="colorPrimary">#2196F3</color>
+    <color name="green">#4CAF50</color>
+    <color name="red">#F44336</color>
+</resources>
